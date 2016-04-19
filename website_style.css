@@ -1,0 +1,38 @@
+h1 {
+  color: white; font-family: Courier;
+}
+
+h3 {
+  color: white; font-family: Courier;
+}
+
+
+
+h6 {
+  display: inline;
+}
+
+
+a {
+  color: white;
+}
+
+p{
+  font-family: Courier;
+  color: white
+}
+
+footer{
+  font-family: Courier;
+  color: white
+}
+img.background-image {
+  height: auto;
+  left: 0;
+  min-height: 100%;
+  min-width: 1024px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: -1;
+}
